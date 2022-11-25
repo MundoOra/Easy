@@ -1,0 +1,27 @@
+{
+  "name": "easy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "web-push": "^3.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MundoOra/EASY_REVIEW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MundoOra/EASY_REVIEW/issues"
+  },
+  "homepage": "https://github.com/MundoOra/EASY_REVIEW#readme",
+  "description": ""
+}
